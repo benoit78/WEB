@@ -1,0 +1,2 @@
+commande pour compiler le code sass vers notre fichier css:
+command: npm run compile:sass
